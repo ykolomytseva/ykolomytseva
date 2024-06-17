@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Yana and welcome to my GitHub Profile!
 
-I'm passionate and enthusiastic developer who recently completed an intensive coding bootcamp at Neufische. Eager to dive into the world of software development, I'm on the lookout for exciting opportunities to contribute my skills and creativity.
+I'm a full-stack developer currently working at ByteOps GmbH, a cybersecurity company. My goal is to leverage my skills to build secure, efficient, and innovative solutions.
 
 ## 🚀 About Me
 
-- 🎓 Graduate of Neufische Coding Bootcamp
-- 💻 Juniot Full-stack Developer (Frontend & Backend)
-- 🌐 Web development enthusiast with a keen eye for user experience
+- 💼 Full-stack Developer at ByteOps GmbH (specializing in cybersecurity)
+- 🌐 Experienced in Elasticsearch, DORA, and other modern development tools
+- 💻 Full-stack Developer (Frontend & Backend)
 
 ## 🌟 Skills
 
@@ -20,9 +20,15 @@ I'm passionate and enthusiastic developer who recently completed an intensive co
 - MongoDB, MySQL
 - RESTful API design
 
-### Tools & Others
+### DevOps & Tools
 - Git & GitHub
 - NPM, Yarn
+- Elasticsearch
+- Docker
+- Kubernetes
+- Jenkins
+- CI/CD pipelines
+- DORA (DevOps Research and Assessment)
 
 ## 🌈 Hobbies
 
@@ -37,6 +43,7 @@ When I'm not coding, you can find me indulging in my favorite hobbies:
 
 I'm open to collaborations, discussions, and job opportunities. Feel free to write me an email at [y.kolomytseva@gmail.com](mailto:y.kolomytseva@gmail.com).
 Let's build something awesome together! 🚀
+
 Also my other socials:
 <div id="badges">
   <a href="www.linkedin.com/in/yana-kolomytseva">
