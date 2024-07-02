@@ -1,10 +1,10 @@
 # 👋 Hey there! I'm Yana and welcome to my GitHub Profile!
 
-I'm a full-stack developer currently working at ByteOps GmbH, a cybersecurity company. My goal is to leverage my skills to build secure, efficient, and innovative solutions.
+I'm a full-stack developer and my goal is to leverage my skills to build secure, efficient, and innovative solutions.
 
 ## 🚀 About Me
 
-- 💼 Full-stack Developer at ByteOps GmbH (specializing in cybersecurity)
+- 💼 Former Full-stack Developer at ByteOps GmbH (specializing in cybersecurity)
 - 🌐 Experienced in Elasticsearch, DORA, and other modern development tools
 - 💻 Full-stack Developer (Frontend & Backend)
 
@@ -12,7 +12,7 @@ I'm a full-stack developer currently working at ByteOps GmbH, a cybersecurity co
 
 ### Frontend
 - HTML5, CSS3, JavaScript (ES6+)
-- ReactJS, Vue.js
+- Angular, REact
 - Responsive Web Design, Bootstrap
 
 ### Backend
