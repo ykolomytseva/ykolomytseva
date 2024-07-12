@@ -12,7 +12,7 @@ I'm a full-stack developer and my goal is to leverage my skills to build secure,
 
 ### Frontend
 - HTML5, CSS3, JavaScript (ES6+)
-- Angular, REact
+- Angular, React
 - Responsive Web Design, Bootstrap
 
 ### Backend
@@ -29,6 +29,14 @@ I'm a full-stack developer and my goal is to leverage my skills to build secure,
 - Jenkins
 - CI/CD pipelines
 - DORA (DevOps Research and Assessment)
+- AI implementation into code
+
+### UI/UX
+- Figma
+- User Interface Design
+- User Experience Design
+- Prototyping and Wireframing
+
 
 ## 🌈 Hobbies
 
